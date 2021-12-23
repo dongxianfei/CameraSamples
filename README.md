@@ -1,5 +1,7 @@
 # Camera Samples Repository
 
+import from https://github.com/android/camera-samples
+
 This repository contains a set of individual Android Studio projects to help you get
 started with the [Camera APIs](https://developer.android.com/guide/topics/media/camera) in Android.
 
